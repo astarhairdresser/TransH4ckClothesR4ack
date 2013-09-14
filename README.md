@@ -1,4 +1,4 @@
-TransH4ckClothesR4ack
+TransH4ckClothesR4ck
 =====================
 
 
@@ -7,7 +7,7 @@ Also many of us simply throw away or donate our old clothes, then we must purcha
 we sometimes cannot afford. 
 
 
-TransH4ack ClothesR4ack is a new app to enable MtF and FtM, Gender Variant and GenderQueer folks to 
+TransH4ack ClothesR4ck is a new app to enable MtF and FtM, Gender Variant and GenderQueer folks to 
 exchange clothes and recieve donations of clothes and clothing gift cards. 
 
 All people will earn points by answering inclusive trans historical and trans positive questions. 
